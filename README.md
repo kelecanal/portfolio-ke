@@ -18,3 +18,6 @@ It will be updated using the various technologies that I learn in my Thinkful - 
 <li>I have been a pastry chef for 5+ years & recently started coding</li>
 <li>An avid League of Legends and Phasmophobia player</li>
 <li><a href="https://instagram.com/karilyca">My Instagram</a></li>
+
+<hr>
+<p>Here's a live link to my <a href="https://kelecanal.github.io/portfolio-ke/">portfolio</a>!</p>
