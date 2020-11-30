@@ -63,6 +63,10 @@ legend {
     font-size: 24px;;
 }
 
+footer {
+    text-align: center;
+}
+
 /* Groups & Items */ 
 
 .bg-primary {
@@ -70,23 +74,32 @@ legend {
     margin: 0;
 }
 
-
 .group {
     display: flex;
     flex-direction: column;
     margin-bottom: 100px;
 }
 
-.item {
-    flex: 1;
-    margin: 10px;
-}
-
-.photos {
+.project-container {
     display: flex;
     width: 100%;
 }
 
+.item {
+    flex: 1;
+    margin: 10px;
+    font-size: medium;
+}
+
+.photos {
+    width: 100%;
+    justify-content: space-between;
+}
+
+.services {
+    display: inline;
+    font-size: large;
+}
 /* Navbar Desktop View */
 
 
