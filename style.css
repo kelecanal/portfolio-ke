@@ -87,7 +87,7 @@ footer {
 
 .item {
     flex: 1;
-    margin: 10px;
+    margin:10px;
     font-size: medium;
 }
 
@@ -96,19 +96,14 @@ footer {
     justify-content: space-between;
 }
 
-.projects {
+.project-container {
     display: flex;
-    flex-wrap: nowrap;
-}
-
-.projs {
-    display: flex;
-
+    width: 100%;
 }
 
 .pj-photos {
-    width: 100%;
-    margin-bottom: auto;
+   width: 100%;
+   flex-wrap: nowrap;
 }
 
 
