@@ -63,6 +63,11 @@ legend {
     font-size: 24px;;
 }
 
+
+textarea {
+    max-width: 95%;
+}
+
 footer {
     text-align: center;
 }
@@ -80,11 +85,6 @@ footer {
     margin-bottom: 100px;
 }
 
-.project-container {
-    display: flex;
-    width: 100%;
-}
-
 .item {
     flex: 1;
     margin: 10px;
@@ -96,10 +96,28 @@ footer {
     justify-content: space-between;
 }
 
+.projects {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.projs {
+    display: flex;
+
+}
+
+.pj-photos {
+    width: 100%;
+    margin-bottom: auto;
+}
+
+
 .services {
     display: inline;
     font-size: large;
 }
+
+
 /* Navbar Desktop View */
 
 
